@@ -5,8 +5,8 @@
     <dbtype>postgres</dbtype>
     <driver>org.postgresql.Driver</driver>
     <DBUrl>jdbc:postgresql://localhost:5432/tpcc</DBUrl>
-    <username>tpcc</username>
-    <password>tpcc</password>
+    <username>otter</username>
+    <password>otter</password>
     <isolation>TRANSACTION_READ_COMMITTED</isolation>
     
     <!-- Scale factor is the number of warehouses in TPCC -->
